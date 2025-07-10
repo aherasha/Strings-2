@@ -2,6 +2,8 @@
 Approach - Pattern Mathcing Algo - Robin Karp / Rolling Hash
 Time Complexity - O(M+N)
 Space Complexity - O(1)
+Did this code successfully run on Leetcode :  Yes
+Any problem you faced while coding this :  No
 */
 import java.math.BigInteger;
 public class Implement_StrStr_LC_28 {
@@ -33,6 +35,8 @@ public class Implement_StrStr_LC_28 {
 Brute Force
 Time Comeplexity - O(M*N)
 Space Comeplexity - O(1)
+Did this code successfully run on Leetcode :  Yes
+Any problem you faced while coding this :  No
 */
 class Solution1 {
     public int strStr(String haystack, String needle) {
